@@ -25,9 +25,9 @@ to track what you are sending as triggers.
 %description -l pl
 Sneeze jest generatorem fa³szywych alarmów Snorta, napisanym w Perlu.
 Odczytuje zwyk³e pliki regu³ Snorta, przetwarza je i generuje pakiety,
-ktore prawdopodobnie uruchomi± te regu³y. Sneeze mo¿e zostaæ
+które prawdopodobnie uruchomi± te regu³y. Sneeze mo¿e zostaæ
 skonfigurowany do u¿ywania okre¶lonych urz±dzeñ sieciowych, portów
-¼rod³owych, spoofowanych IP, jak równie¿ mo¿e dzia³aæ w pêtli podan±
+¼ród³owych, spoofowanych IP, jak równie¿ mo¿e dzia³aæ w pêtli podan±
 liczbê razy, lub permanentnie. Sneeze pozwala bezpiecznie przetestowaæ
 system wykrywania intruzów (IDS) w kontrolowany sposób, a efekt jego
 dzia³ania pozwala sprawdziæ, co dok³adnie jest wysy³ane w celu
