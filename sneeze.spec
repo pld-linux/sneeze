@@ -7,6 +7,7 @@ License:	GPL v2
 Vendor:		Don Bailey <baileydl@mitre.org> Brian Caswell <bmc@mitre.org>
 Group:		Networking
 Source0:	http://snort.sourceforge.net/%{name}-%{version}.tar
+# Source0-md5:	6e35ac12ae681daf593a45600b958a72
 URL:		http://snort.sourceforge.net/
 BuildRequires:	perl-Net-RawIP
 BuildArch:	noarch
