@@ -1,5 +1,5 @@
 Summary:	Sneeze is a Snort false-positive generator written in Perl
-Summary(pl):	Sneeze - generator pakietów testowych dla regu³ Snorta napisany w Perlu
+Summary(pl.UTF-8):   Sneeze - generator pakietÃ³w testowych dla reguÅ‚ Snorta napisany w Perlu
 Name:		sneeze
 Version:	1.0
 Release:	1
@@ -22,15 +22,15 @@ loop a specified amount of times or forever. Sneeze provides a way to
 safely test an IDS in a controlled manner and provides useful output
 to track what you are sending as triggers.
 
-%description -l pl
-Sneeze jest generatorem fa³szywych alarmów Snorta, napisanym w Perlu.
-Odczytuje zwyk³e pliki regu³ Snorta, przetwarza je i generuje pakiety,
-które prawdopodobnie uruchomi± te regu³y. Sneeze mo¿e zostaæ
-skonfigurowany do u¿ywania okre¶lonych urz±dzeñ sieciowych, portów
-¼ród³owych, spoofowanych IP, jak równie¿ mo¿e dzia³aæ w pêtli podan±
-liczbê razy, lub permanentnie. Sneeze pozwala bezpiecznie przetestowaæ
-system wykrywania intruzów (IDS) w kontrolowany sposób, a efekt jego
-dzia³ania pozwala sprawdziæ, co dok³adnie jest wysy³ane w celu
+%description -l pl.UTF-8
+Sneeze jest generatorem faÅ‚szywych alarmÃ³w Snorta, napisanym w Perlu.
+Odczytuje zwykÅ‚e pliki reguÅ‚ Snorta, przetwarza je i generuje pakiety,
+ktÃ³re prawdopodobnie uruchomiÄ… te reguÅ‚y. Sneeze moÅ¼e zostaÄ‡
+skonfigurowany do uÅ¼ywania okreÅ›lonych urzÄ…dzeÅ„ sieciowych, portÃ³w
+ÅºrÃ³dÅ‚owych, spoofowanych IP, jak rÃ³wnieÅ¼ moÅ¼e dziaÅ‚aÄ‡ w pÄ™tli podanÄ…
+liczbÄ™ razy, lub permanentnie. Sneeze pozwala bezpiecznie przetestowaÄ‡
+system wykrywania intruzÃ³w (IDS) w kontrolowany sposÃ³b, a efekt jego
+dziaÅ‚ania pozwala sprawdziÄ‡, co dokÅ‚adnie jest wysyÅ‚ane w celu
 uaktywnienia alarmu.
 
 %prep
