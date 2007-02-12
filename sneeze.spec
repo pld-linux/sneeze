@@ -1,5 +1,5 @@
 Summary:	Sneeze is a Snort false-positive generator written in Perl
-Summary(pl.UTF-8):   Sneeze - generator pakietów testowych dla reguł Snorta napisany w Perlu
+Summary(pl.UTF-8):	Sneeze - generator pakietów testowych dla reguł Snorta napisany w Perlu
 Name:		sneeze
 Version:	1.0
 Release:	1
